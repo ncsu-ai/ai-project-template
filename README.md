@@ -1,7 +1,7 @@
-AIatNCStateSpring2021KaggleCompetitionExampleProject
+AI at NC State AI/ML Project Template
 ==============================
 
-This Spring 2021 AI at NC State project repository contains all of the machine learning prototyping code for an example Kaggle Competition project. It is a template to use when working on Kaggle competition problems in an orderly fashion befitting of a data scientist.
+This template serves as a starting point for artificial intelligence and machine learning projects.
 
 Project Organization
 ------------
