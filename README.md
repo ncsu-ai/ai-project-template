@@ -3,9 +3,7 @@ AI at NC State AI/ML Project Template
 
 This template serves as a starting point for artificial intelligence and machine learning projects.
 
-Project Organization
-------------
-
+## Project Template Organization
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
@@ -50,7 +48,3 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-
-
---------
-
